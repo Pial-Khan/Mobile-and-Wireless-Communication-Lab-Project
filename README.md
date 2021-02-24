@@ -3,6 +3,5 @@
 Project Description : The project is written on Java programming language. For GUI JavaFX has been used. 
 Requirements: Java Version -15.0.1, Java(TM) SE Runtime Environment -15.0.1
 
-Yours Sincerely,
 Md. Rafsunjani Khan
 Reg. 2016331057
